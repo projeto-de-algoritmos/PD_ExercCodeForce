@@ -61,4 +61,4 @@ Para submeter as resoluções dos exercicíos basta seguir os passos abaixo:
 
 ## Outros 
 O vídeo pode ser acessado através do
-[Link]()
+[Link](https://youtu.be/pdWeaVQ3Y_A)
